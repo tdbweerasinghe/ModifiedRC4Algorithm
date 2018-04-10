@@ -1,5 +1,5 @@
 # ModifiedRC4Algorithm
-Eclipse IDE based implementation of a modified RC4 algorithm
+NetBeans IDE based implementation of a modified RC4 algorithm
 
 The code base for the following research papers: 
 
